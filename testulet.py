@@ -7,4 +7,5 @@ for i in listt[:]:
         listt.remove(i)
 print(listt)
 
-    #editat editat editat
+    #editat editat 
+    ##asdasdmaskmakamkasdmkasdmk nou din nou iarasi
